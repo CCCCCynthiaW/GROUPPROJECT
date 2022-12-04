@@ -3,8 +3,6 @@ package project;
 public class Viewership {
 	public int downloads = 0;
 	public int views = 0;
-	public int numberOfRatings = 0;
-	public double rating=0;
 }
 /*
 1. object composition: (Viewership) performance should be a field in Movies and TV
